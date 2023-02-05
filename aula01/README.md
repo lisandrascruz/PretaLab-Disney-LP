@@ -96,19 +96,31 @@ Esses processos que são desenvolvidos e executados em um computador servem para
 </details>
 
 
-### 🤯 Logica DE Programação 
+### 🤯 Logica de Programação 
 `
  💫 O ministério da pessoa programadora adverte: a partir de agora vocês irão respirar Lógica de programação. Bem vindas! 
 `
 
-<b>Sequências Lógicas</b> são passos executados até atingir um objetivo ou solução de um problema. São os passos que devemos seguir até encontrarmos uma solução para o programa que queremos construir ou para solucionar um problema encontrado no código.
+Lógica executada até atingir um objetivo ou encontrar uma solução de um problema. São os passos que devemos seguir até encontrarmos uma solução para o programa que queremos construir ou para solucionar um problema encontrado no código.
 
+Olhando mais de perto para o desenvolvimento de aplicações, vemos uma subdivisão entre <b>backend</b> e <b>fontend</b>.
 
-### Linguagens de programação: Javascript
-  [TO-DO]
+<p align="center">
+  <img src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/Front-End-vs-Back-End-Developer-The-Guide-to-Choose-Which-Is-For-You.jpg" width="400"/>
+    <img src="https://www.dtidigital.com.br/wp-content/uploads/2021/08/Front-end.png" width="500"/>
+</p>
+  
+### 💬 Linguagens de programação
+  
+  O computador lê e interpreta bits binários 1s (uns) e 0s (zeros). Imagina se tudo que fazemos no computador tivesse que ser escrito apenas com bits 1s e 0s? <b>Seria inviável</b>! Por isso existem as linguagens de programação. Elas são o meio pelo qual as pessoas desenvolvedoras (chamadas também de programadoras) se comunicam com as máquinas. A função da linguagem de programação é <b>entender a tarefa determinada</b> através do código e <b>traduzir</b> as instruções de forma que o computador consiga ler e executar. 
 
-### IDE
-  [TO-DO]
+  Chamamos de código a forma que instruímos com sequências lógicas as tarefas que o computador precisa executar em uma determinada linguagem de programação. 
+
+Durante esse curso, nós utilizaremos a linguagem Javascript.
+  
+
+### 📈 Ambiente de Desenvolvimento
+  Iremos utilizar o [Visual Studio Code](https://code.visualstudio.com/), nele seremos capazes de escrever e executar nossos códigos!
   
   
-## Recomendações
+
