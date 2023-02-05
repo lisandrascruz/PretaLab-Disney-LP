@@ -1,8 +1,8 @@
 # Aula 02
 
 <p align="center">
-  <img alt="bob esponja subindo e descendo as duas mãos em um gif" src="https://i.pinimg.com/originals/dd/e9/f4/dde9f4828f960227fab41096b82fba1d.gif" width=400 />
-</p>
+  <img width="400" src="https://64.media.tumblr.com/ebc88add3f40107dc41f289ee05c865d/660c3fe096ab7c4c-59/s540x810/855b97698e377f23d0054518f62262571bedfa24.gif">
+</p> 
 
 ## Preparando o ambiente de desenvolvimento
 
@@ -52,9 +52,8 @@ Para o bem geral da nação e felicidade da pessoa programadora, hoje iremos con
 
 ---
 
- <p align="center">
-    <img alt="Print da tela de instalação do code runner" src="https://media.tenor.com/mdOPy_Efn9cAAAAC/spongebob-bye-bye.gif" width=300 />
-  </p>
- <p align="center">Isso é tudo pessoaaal!</p>
+<p align="center">Isso é tudo pessoaaal!</p>
   
-
+<p align="center">
+  <img src="https://stories.adorocinema.com/pantera-negra-qual-e-a-origem-da-saudacao-de-wakanda-forever/assets/5.gif" width="500"/>
+</p>
