@@ -4,7 +4,7 @@
   <img width="400" src="https://media.tenor.com/5DRA1RGJ4ocAAAAC/start-gravityfalls.gif">
 </p> 
 
-## Conteúdo
+## E por onde eu começo?
 Olá pessoinhas! Esse é o nosso primeiro encontro e a primeira pergunta que se vem a mente é "E por onde eu começo?", sendo prática na resposta "Vamos começar do começo"! Juntes iremos entender os princípios básicos da Lógica de Programação.
 
   
