@@ -21,14 +21,14 @@ Esse repositório é voltado ao módulo de Lógica de Programação, terá dura�
 - Estrutura Condicional: *if - else if - else*
 - Revisão e prática
 
-#### [20/jan - 25/jan] Semana 2
+#### [20/jan - 25/jan] Semana 3
 - Estrutura de Repetição: *for*
 
-#### [27/jan - 04/fev] Semana 3
+#### [27/jan - 04/fev] Semana 4
 - Estrutura de Repetição: *for e/ou while* 
 - Função
 
-#### [06/fev - 11/fev] Semana 4
+#### [06/fev - 11/fev] Semana 5
 - Projetinho final
 
 ---
