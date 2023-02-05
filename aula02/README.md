@@ -4,7 +4,7 @@
   <img alt="bob esponja subindo e descendo as duas mãos em um gif" src="https://i.pinimg.com/originals/dd/e9/f4/dde9f4828f960227fab41096b82fba1d.gif" width=400 />
 </p>
 
-# Preparando o ambiente de desenvolvimento
+## Preparando o ambiente de desenvolvimento
 
 Para o bem geral da nação e felicidade da pessoa programadora, hoje iremos configurar nosso ambiente de desenvolvimento, para que durante as proximas aulas tenhamos apenas que nos preocupar com aprender Javascript e fazer nosso código funcionar! Para isso seguiremos alguns passos.
 
