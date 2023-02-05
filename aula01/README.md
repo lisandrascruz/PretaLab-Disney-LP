@@ -38,7 +38,7 @@ Esses processos que são desenvolvidos e executados em um computador servem para
 <p align="center">
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=pdhqwbUWf4U&t=1s&ab_channel=OBaricentrodaMente
   " target="_blank">
-    <img src="http://img.youtube.com/vi/pdhqwbUWf4U/hqdefault.jpg" alt="IMAGE ALT TEXT HERE" width="300" border="10" />
+    <img src="http://img.youtube.com/vi/pdhqwbUWf4U/hqdefault.jpg" width="300" border="10" />
   </a>
 </p>
 
@@ -47,32 +47,45 @@ Esses processos que são desenvolvidos e executados em um computador servem para
 
   O <b>Algoritmo</b> é uma sequência de <b>instruções lógica</b> e finita que são seguidas, <b>passo a passo</b>, com o propósito de atingir um objetivo previamente definido. Quando criamos um <b>algoritmo computacional</b> podemos determinar caminhos, atribuir condições, manipular, processar dados, realizar cálculos e ações para alcançar o <b>objetivo final</b>.
 
+  <p align="center">
+    <img src="https://drive.google.com/uc?export=download&id=1qAVllGqtOoQVFQoYPbDBRmTkYPcwcPtg" width="500"/>
+  </p>
+  
 </details>
-
-[INPUT-OUTPUT]
 
 <details>
   <summary>Fazendo um bolo</summary>
- [TO-DO]
-
+   <p align="center">
+    <img src="https://drive.google.com/uc?export=download&id=1PgZSyleQGyjh_xNaHIx8SntKO3DLKpjW" width="500"/>
+  </p>
+ 
 </details>
 
 <details>
   <summary>Verificação da lâmpada</summary>
- [TO-DO]
+  
+  <p align="center">
+    <img src="https://drive.google.com/uc?export=download&id=1w74rkg4STx9c8cjVUG35ONDb5BC-rRoE" width="300"/>
+  </p>
 
 </details>
 
 <details>
   <summary>Soma de dois números</summary>
- [TO-DO]
+  
+  <p align="center">
+    <img src="https://drive.google.com/uc?export=download&id=1JWMhe-IWICnfH_p9oWX_dRXLcrXOp07f" width="500"/>
+  </p>
 
 </details>
 
 <details>
-  <summary>Verufucação de um número</summary>
- [TO-DO]
-
+  <summary>Verificação de um número</summary>
+ 
+  <p align="center">
+    <img src="https://drive.google.com/uc?export=download&id=1wAQOgzLTR1uKwqkl1LeJclewiGnSmaKC" width="500"/>
+  </p>
+  
 </details>
 
 <details>
@@ -87,7 +100,8 @@ Esses processos que são desenvolvidos e executados em um computador servem para
 `
  💫 O ministério da pessoa programadora adverte: a partir de agora vocês irão respirar Lógica de programação. Bem vindas! 
 `
-[TO-DO]
+
+<b>Sequências Lógicas</b> são passos executados até atingir um objetivo ou solução de um problema. São os passos que devemos seguir até encontrarmos uma solução para o programa que queremos construir ou para solucionar um problema encontrado no código.
 
 
 ### Linguagens de programação: Javascript
