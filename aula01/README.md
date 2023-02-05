@@ -1,7 +1,7 @@
 # Aula 01
 
 <p align="center">
-  <img width="400" src="https://media.tenor.com/5DRA1RGJ4ocAAAAC/start-gravityfalls.gif">
+  <img width="400" src="https://64.media.tumblr.com/ebc88add3f40107dc41f289ee05c865d/660c3fe096ab7c4c-59/s540x810/855b97698e377f23d0054518f62262571bedfa24.gif">
 </p> 
 
 ## E por onde eu começo?
@@ -122,5 +122,12 @@ Durante esse curso, nós utilizaremos a linguagem Javascript.
 ### 📈 Ambiente de Desenvolvimento
   Iremos utilizar o [Visual Studio Code](https://code.visualstudio.com/), nele seremos capazes de escrever e executar nossos códigos!
   
-  
+---
 
+<p align="center">
+  Isso é tudo pessoaaal!
+</p>
+
+<p align="center">
+  <img src="https://stories.adorocinema.com/pantera-negra-qual-e-a-origem-da-saudacao-de-wakanda-forever/assets/5.gif" width="500"/>
+</p>
