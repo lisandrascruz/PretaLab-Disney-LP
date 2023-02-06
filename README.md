@@ -34,4 +34,4 @@ Esse repositório é voltado ao módulo de Lógica de Programação, terá dura�
 ---
 Vocês são manas incríveis, nunca duvidem dos seus potenciais, mandem a impostora pro cantinho dela. Será um prazer aprender e ensinar com vocês, vamos juntas, pois assim somos mais fortes!
 
-By Lis <3
+Feito com muito carinho <3
