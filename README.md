@@ -7,12 +7,12 @@ Esse repositório é voltado ao módulo de Lógica de Programação, terá dura�
 
 ---
 ## Planejamento 
-#### [06/jan - 11/jan] Semana 1 
+#### [06/fev - 11/fev] Semana 1 
 - Introdução a Lógica de Programação
 - Preparação do ambiente de desenvolvimento
 - Revisão e prática
 
-#### [13/jan - 18/jan] Semana 2
+#### [13/fev - 18/fev] Semana 2
 - Variáveis, constantes e seus padrões de nomeclatura
 - Tipos de dados (não são os do RPG)
 - Operadores aritméticos
@@ -21,14 +21,16 @@ Esse repositório é voltado ao módulo de Lógica de Programação, terá dura�
 - Estrutura Condicional: *if - else if - else*
 - Revisão e prática
 
-#### [20/jan - 25/jan] Semana 3
+#### [20/fev - 25/fev] Semana 3
 - Estrutura de Repetição: *for*
+- Revisão e prática
 
-#### [27/jan - 04/fev] Semana 4
+#### [27/fev - 04/mar] Semana 4
 - Estrutura de Repetição: *for e/ou while* 
 - Função
+- Revisão e prática
 
-#### [06/fev - 11/fev] Semana 5
+#### [06/mar - 11/mar] Semana 5
 - Projetinho final
 
 ---
