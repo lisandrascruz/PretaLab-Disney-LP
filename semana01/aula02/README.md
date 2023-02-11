@@ -52,6 +52,11 @@ Para o bem geral da nação e felicidade da pessoa programadora, hoje iremos con
 
 ---
 
+`Aconteceu qualquer problema?`
+Use o [Replit](https://replit.com/~) até conseguir resolver, dessa forma você não fica de fora das atividades!
+
+---
+
 <p align="center">Isso é tudo pessoaaal!</p>
   
 <p align="center">
