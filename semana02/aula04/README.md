@@ -104,6 +104,13 @@ Também é possível declarar muitas variáveis em uma declaração:
 let pessoa = "Renata", Idade = "33", signo = "Escorpião";
 ````
 
+<b>Concatenação</b>
+
+
+  <details>
+    <summary>Pratica 3: Crie as seguintes constantes e em seguida use a criatividade para concatená-las, formando uma frase: primeiro nome; último nome; ano de nascimento; cor preferida; hobby; um sentimento.
+    </summary>
+    
 ### Manipulação de Strings
 
 Existem algumas formas de manipular string: 
@@ -113,6 +120,7 @@ Existem algumas formas de manipular string:
 - `slice` retorna só um trecho da string;
 - `substr` retorna trechos de string informando a posição.
 - mais: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String 
+
 
 
 ## Operadores Aritméticos e Lógicos
