@@ -7,7 +7,7 @@
 ### 💻 JavaScript
 Na última aula vimos variáveis e tipos de dados. Hoje continuaremos a entender Javascript com muita prática. Bora!!!
 
-### Estrutura condicional
+## ↔️Estrutura condicional
 
 Uma estrutura condicional, como seu próprio nome sugere, trabalha em determinadas condições, ou seja, sua execução depende de uma condição que deve ser satisfeita. Ou seja, executar um código apenas quando a condição esperada acontecer.
 
@@ -85,7 +85,7 @@ if (a > b){
 
 
 
-### Tabela Verdade
+## 🤔Tabela Verdade
 
 A tabela da verdade é muito utilizada na lógica de programação para desenvolvimento do raciocínio lógico. Seu objetivo é verificar a validade lógica de uma condição composta (argumento formado por duas ou mais condições simples). 
 
