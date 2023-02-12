@@ -129,7 +129,7 @@ const divisao = 21 / 21;
 Além dos mais comuns cidatos acima existe também o módulo da divisão que consiste no resto da divisão de dois números.
 
 ```javascript
-const moduloDaDivisão = 21 % 21;
+const moduloDaDivisao = 21 % 21;
 ```
 
 ### Operadores de comparação e lógico
