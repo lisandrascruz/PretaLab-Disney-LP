@@ -122,7 +122,6 @@ Existem algumas formas de manipular string:
 - mais: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String 
 
 
-
 ## Operadores Aritméticos e Lógicos
 
 ### Os operadores aritméticos são os conhecidos por nós na matemática.
