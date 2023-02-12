@@ -19,109 +19,151 @@ De acordo com sua definição oficial, o Node é um runtime, que nada mais é do
   <img width="400" src="https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif">
 </p> 
 
-<b>- Variáveis:</b>
 
-As variáveis tem o poder de armazenar e manipular dados e informações inseridas em nossos códigos. A forma que escolhemos determinará se será uma variável de escopo local ou escopo global. Mas como assim?
+### 🎲 Tipos de Dados
 
-<b>Escopo global</b> quer dizer que uma vez declarada, essa variável estará “viva” ”durante toda a aplicação e poderá ser acessada em toda a aplicação.
+- `Number` representa um conjunto de dados numéricos positivos ou negativos, inteiros, reais ou decimais;
 
-<b>Escopo local</b>, o escopo das variáveis locais é vinculado ao bloco onde elas são declaradas. Sendo assim, elas “morrem” ao final da instrução em que estão sendo executadas.
+- `String` é a sequência de caracteres, sejam eles textuais, numericos, simbolos e afins;
 
-Algumas formas de declarar uma variável incluem:
+- `Boolean` é uma variável que recebe um dado lógico com apenas duas possibilidades: ser verdadeiro ou falso (true or false);
 
-●	 `var` declara uma variável, opcionalmente, inicializando-a com um valor.
+- `Null` representa uma variável vazia ou nula que não armazena nada.
 
-●	 `let` declara uma variável local de escopo do bloco, opcionalmente, inicializando-a com um valor.
 
-●	 `const` declara uma constante de escopo de bloco, apenas de leitura.
+## 📦 Variáveis e Constantes
+
+As variáveis tem o poder de armazenar informações inseridas em nossos códigos. A forma que escolhemos determinará se será uma variável de escopo local ou escopo global. Mas como assim?
+
+  - <b>Escopo global</b> quer dizer que uma vez declarada, essa variável estará “viva” ”durante toda a aplicação e poderá ser acessada em toda a aplicação.
+
+  - <b>Escopo local</b>, o escopo das variáveis locais é vinculado ao bloco onde elas são declaradas. Sendo assim, elas “morrem” ao final da instrução em que estão sendo executadas.
+
+### Declarando variáveis e constantes
+
+- `var` declara uma variável, opcionalmente, inicializando-a com um valor. [USO NÃO RECOMENDADO]
+
+- `let` declara uma variável local de escopo do bloco, opcionalmente, inicializando-a com um valor.
+
+- `const` declara uma constante de escopo de bloco, apenas de leitura.
+
+
+🐼 🐼 🐼 
+
+`Todas as vezes que uma variável é criada com o VAR, um panda morre. Atualmente o seu uso está depreciado e não é considerado uma boa prática. Salvem os pandas, não usem VAR.`
+
+🐼 🐼 🐼
+
 
 <p align="center">
-  <img width="400" src="https://miro.medium.com/max/1200/0*mYuuRwjUfUOAdHpo.jpg">
+  <img width="600" src="https://miro.medium.com/max/1200/0*mYuuRwjUfUOAdHpo.jpg">
 </p> 
 
-🏋🏽Bora praticar: 
-- Abra o Visual Studio 
+### Padrões de nomeclatura 
+`Iremos utilizar o camelCaseNoCurso`
 
-<b> Exemplo 1</b>
-- Crie um arquivo `exemplo-1.js`
-- Escreva o código abaixo e em seguida salve seu arquivo   
-     ```javascript
-        var fruta1 = "banana";
-        var fruta2 = "maçã";
-        var fruta3= "laranja";
-        console.log(fruta1)
-        console.log(fruta2)
-        console.log(fruta3)
-     ```
-      
- <b> Exemplo 2</b>
-- Crie um arquivo `exemplo-2.js`
-- Escreva o código abaixo e em seguida salve seu arquivo
+<p align="center">
+  <img width="400" src="https://juniortoexpert.com/wp-content/uploads/naming-convention-snake-case-kebab-case-camel-case.png">
+</p> 
+   
 
-     ```javascript
-        let x = 5;
-        let y = 6;
-        let z = x + y;
-        console.log(z)
-     ```
+#### 🏋🏽 Bora praticar 
+  Abra o Visual Studio 
+
+  <details>
+    <summary>Pratica 1: crie 3 constantes e mostre no console o valor salvo nelas</summary>
+
+```javascript
+const fruta1 = "banana";
+const fruta2 = "maçã";
+const fruta3 = "laranja";
+console.log(fruta1)
+console.log(fruta2)
+console.log(fruta3)
+```
+  </details>
+    
+    
+  <details>
+    <summary>Pratica 2: Declare e insira os valores nas seguintes variáveis ou constantes: Nome do país, Pontos turísticos, Capital do país, Quantidade de estados, O país é da América Latina?
+    </summary>
+
+```javascript
+const nomePais = "Brasil";
+let pontosTuristicos = "Pelorinho, Cristo Redentor";
+const capitalPais= "Brasilia";
+const quantidadeEstados = 26;
+const eDaAmericaLatina= true;
+```
+
+  </details>
  
+ 
+````
 Também é possível declarar muitas variáveis em uma declaração:
+let pessoa = "Renata", Idade = "33", signo = "Escorpião";
+````
 
-   ```javascript
-      let pessoa = "Renata", Idade = "33", signo = "Escorpião";
-      console.log(pessoa)
-   ```
+### Manipulação de Strings
 
-<b>- Tipos de Dados</b>
-
-●	 `Number` representa um conjunto de dados numéricos positivos ou negativos, inteiros, reais, ou decimais;
-
-●	 `String` é a sequência de caracteres que representa um texto;
-
-●	 `Boolean` é uma variável que recebe um dado lógico com apenas duas possibilidades: ser verdadeiro ou falso (true or false);
-
-●	 `Null` representa uma variável vazia ou nula que não armazena nada. Variáveis null são iniciadas como ‘0’ ou são nulas;
-
-●	 `Lógicos` formam um grupo de dados para representar dois únicos valores lógicos possíveis: verdadeiro ou falso.
+Existem algumas formas de manipular string: 
+- `length` checa o tamanho da string;
+- `split` separa uma string definindo um limitador;
+- `replace` substitui trechos da string;
+- `slice` retorna só um trecho da string;
+- `substr` retorna trechos de string informando a posição.
+- mais: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String 
 
 
-<b>- Manipulação de variáveis</b>
+## Operadores Aritméticos e Lógicos
 
-Existem algumas formas de manipular variáveis: 
+### Os operadores aritméticos são os conhecidos por nós na matemática.
 
-●	 `length` checa o tamanho da variável;
+```javascript
+const soma = 21 + 21;
+const subtracao = 21 - 21;
+const multiplicacao = 21 * 21;
+const divisao = 21 / 21;
+```
 
-●	 `split` separa uma variável definindo um limitador;
+Além dos mais comuns cidatos acima existe também o módulo da divisão que consiste no resto da divisão de dois números.
 
-●	 `replace` substitui trechos das variáveis;
+```javascript
+const moduloDaDivisão = 21 % 21;
+```
 
-●	 `slice` retorna só um trecho da variável;
+### Operadores de comparação e lógico
 
-●	 `substr` retorna trechos de variáveis informando a posição.
-
-🏋🏽Bora praticar: 
-- Abra o Visual Studio 
-
-<b> Exemplo 3</b>
-- Crie um arquivo `exemplo-3.js`
-- Escreva o código abaixo e em seguida salve seu arquivo   
-
-
-
-<b>- Operadores Matemáticos e lógicos </b>
-
-<p align="center">
-  <img width="300" src="https://miro.medium.com/max/1340/1*4B3984iMIf7MPxN_S36iGg.png">
-</p>
+```javascript
+// Comparação
+const estritamenteIgual = 21 === 21;
+const estritamenteDiferente = 21 !== 21;
+const maiorQue = 21 > 21;
+const maiorOuIgualQue = 21 >= 21;
+const menorQue = 21 < 21;
+const menorOuIgualQue = 21 <= 21;
+// Lógicos
+const and_e = estritamenteIgual && maiorQue;
+const or_ou = maiorQue || estritamenteDiferente;
+const not_nao = !estritamenteDiferente;
+```
 
 
-<p align="center">
-  <img width="700" src="https://miro.medium.com/max/1400/1*_sS64sGl7FOjH5lecaXICA.png">
-</p>
+<details>
+  <summary>Pratica 3: crie 2 constantes: numero1 e numero2, cada uma contendo um valor numérico. Em seguida, crie mais 5 constantes: soma, subtração, multiplicação, divisão e modulo, que contenha as reespectivas operações usando as constantes numero1 e numero2</summary>
 
+```javascript
+const soma = numero1+numero2;
+const subtracao = numero1-numero2;
+const multiplicacao= numero1*numero2;
+const divisao= numero1/numero2;
+const modulo= numero1%numero2;
+```
+</details>
+    
   
-### 💡Dicas
-Uma boa prática é inserir comentários ao longo do código para descrevê-lo.
+### 💡 Dicas
+Durante o processo de aprendizagem inserir comentários ao longo do código para descrevê-lo pode ser útil para relembrar.
  ```javascript
  // comentário de uma linha
 
