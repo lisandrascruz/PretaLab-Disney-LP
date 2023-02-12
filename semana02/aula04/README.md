@@ -110,7 +110,8 @@ let pessoa = "Renata", Idade = "33", signo = "Escorpião";
   <details>
     <summary>Pratica 3: Crie as seguintes constantes e em seguida use a criatividade para concatená-las, formando uma frase: primeiro nome; último nome; ano de nascimento; cor preferida; hobby; um sentimento.
     </summary>
-    
+   </details>
+   
 ### Manipulação de Strings
 
 Existem algumas formas de manipular string: 
