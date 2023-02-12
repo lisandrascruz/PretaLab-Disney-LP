@@ -1,7 +1,7 @@
 # Aula 04
 
 <p align="center">
-  <img width="400" src="https://64.media.tumblr.com/ebc88add3f40107dc41f289ee05c865d/660c3fe096ab7c4c-59/s540x810/855b97698e377f23d0054518f62262571bedfa24.gif">
+  <img width="400" src="https://camo.githubusercontent.com/b30511722f70fde6e05fb4aec88d0e83b11484fb5e80f4557af6c5ed19767f24/68747470733a2f2f7468756d62732e6766796361742e636f6d2f41676974617465644c6f6e656c79426c61636b6275636b2d6d61782d316d622e676966">
 </p> 
 
 ## Introdução a JavaScript
@@ -137,5 +137,5 @@ Uma boa prática é inserir comentários ao longo do código para descrevê-lo.
 </p>
 
 <p align="center">
-  <img src="https://stories.adorocinema.com/pantera-negra-qual-e-a-origem-da-saudacao-de-wakanda-forever/assets/5.gif" width="500"/>
+  <img src="https://camo.githubusercontent.com/0ae622f2ae10d672df09248a9d00ec6ce16558dad1c305531cb4caf33137b784/68747470733a2f2f7468756d62732e6766796361742e636f6d2f416767726573736976654a65616c6f7573416d75726d696e6e6f772d73697a655f726573747269637465642e676966" width="500"/>
 </p>
