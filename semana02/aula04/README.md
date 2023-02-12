@@ -69,7 +69,7 @@ Também é possível declarar muitas variáveis em uma declaração:
 
    ```javascript
       let pessoa = "Renata", Idade = "33", signo = "Escorpião";
-      console.log(z)
+      console.log(pessoa)
    ```
 
 <b>- Tipos de Dados</b>
