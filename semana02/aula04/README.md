@@ -98,14 +98,27 @@ const eDaAmericaLatina= true;
 
   </details>
  
- 
 ````
 Também é possível declarar muitas variáveis em uma declaração:
 let pessoa = "Renata", Idade = "33", signo = "Escorpião";
 ````
 
-<b>Concatenação</b>
+### Concatenação
+  <b>Tradicional: </b> Através do + conseguimos unir textos com variaveis.
+  
+  <b>Template string: </b> Através do da crase envolvendo toda a frase, adicionando as variaveis dentro do `${}` conseguimos unir textos e variáveis.
 
+```javascript
+const nomePais = "Brasil";
+const capitalPais= "Brasilia";
+const quantidadeEstados = 26;
+
+// Tradicional
+console.log("Eu me chamo Lisandra e moro no " + nomePais + " que tem " + capitalPais + " como capital. Aqui sou muito feliz pois tenho "+ quantidadeEstados + " estados para desbravar!");
+
+// Template String
+console.log(`Eu me chamo Lisandra e moro no ${nomePais} que tem ${capitalPais} como capital. Aqui sou muito feliz pois tenho ${quantidadeEstados} estados para desbravar!`);
+```
 
   <details>
     <summary>Pratica 3: Crie as seguintes constantes e em seguida use a criatividade para concatená-las, formando uma frase: primeiro nome; último nome; ano de nascimento; cor preferida; hobby; um sentimento.
@@ -123,7 +136,7 @@ Existem algumas formas de manipular string:
 - mais: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String 
 
 
-## Operadores Aritméticos e Lógicos
+## 🧮 Operadores Aritméticos e Lógicos
 
 ### Os operadores aritméticos são os conhecidos por nós na matemática.
 
@@ -158,7 +171,7 @@ const not_nao = !estritamenteDiferente;
 
 
 <details>
-  <summary>Pratica 3: crie 2 constantes: numero1 e numero2, cada uma contendo um valor numérico. Em seguida, crie mais 5 constantes: soma, subtração, multiplicação, divisão e modulo, que contenha as reespectivas operações usando as constantes numero1 e numero2</summary>
+  <summary>Pratica 4: crie 2 constantes: numero1 e numero2, cada uma contendo um valor numérico. Em seguida, crie mais 5 constantes: soma, subtração, multiplicação, divisão e modulo, que contenha as reespectivas operações usando as constantes numero1 e numero2</summary>
 
 ```javascript
 const soma = numero1+numero2;
