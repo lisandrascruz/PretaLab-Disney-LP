@@ -120,6 +120,9 @@ console.log("Eu me chamo Lisandra e moro no " + nomePais + " que tem " + capital
 console.log(`Eu me chamo Lisandra e moro no ${nomePais} que tem ${capitalPais} como capital. Aqui sou muito feliz pois tenho ${quantidadeEstados} estados para desbravar!`);
 ```
 
+#### 🏋🏽 Bora praticar 
+Abra o Visual Studio
+  
   <details>
     <summary>Pratica 3: Crie as seguintes constantes e em seguida use a criatividade para concatená-las, formando uma frase: primeiro nome; último nome; ano de nascimento; cor preferida; hobby; um sentimento.
     </summary>
@@ -169,6 +172,8 @@ const or_ou = maiorQue || estritamenteDiferente;
 const not_nao = !estritamenteDiferente;
 ```
 
+#### 🏋🏽 Bora praticar 
+Abra o Visual Studio
 
 <details>
   <summary>Pratica 4: crie 2 constantes: numero1 e numero2, cada uma contendo um valor numérico. Em seguida, crie mais 5 constantes: soma, subtração, multiplicação, divisão e modulo, que contenha as reespectivas operações usando as constantes numero1 e numero2</summary>
