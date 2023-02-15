@@ -15,8 +15,7 @@ Nem só de bloquinho vive a pessoa estudante, então simbora manter o conteúdo 
 </p>
 
 
-**1. Prática**
-
+**1. Prática**<br>
 Conteúdos abordados: constantes e variáveis
 
 - [ ] Crie uma constante chamada meuNome e atribua a ela o seu nome.
@@ -31,8 +30,7 @@ Agora utilizaremos o console.log:
 - [ ] altere o valor da constante cidadeNatal e faça um console.log nela, verifique o que ocorre. Você consegue explicar, com suas palavras, o motivo do erro?
 
 
-**2. Prática**
-
+**2. Prática**<br>
 Conteúdos abordados: variáveis, constantes e seus padrões de nomenclatura
 
 Abaixo iremos ver algumas declarações de constantes e variáveis, observe se a escrita e seus tipos estão de acordo com a sintaxe da linguagem JavaScript. Caso não esteja, corrija, deixando- a válida.
@@ -49,8 +47,7 @@ d) let profissão =  ‘ desenvolvedor’;
 
 
 
-**3. Prática**
-
+**3. Prática**<br>
 Conteúdos abordados: operadores aritméticos
 
 Vamos fazer algumas operações simples. Queremos imprimir a área e o perímetro de um retângulo, sabemos que a base do retângulo é 5 e a altura é 8.
@@ -70,8 +67,7 @@ Quero imprimir o nome de minha gata no console.<br>
 const nomeDaMinhaGata = “Olga”; <br>
 console.log(nomeDaMinhaGata);
 
-**4. Prática**
-
+**4. Prática**<br>
 Conteúdos abordados: operadores relacionais e estrutura condicional
 
 Observe as variáveis abaixo:
@@ -153,6 +149,7 @@ var frase = "O Pantera Negra vive, e quando ele lutar pelo destino de Wakanda, e
 
 
 **7. Prática**
+  
 Conteúdos abordados: operadores relacionais e estrutura condicional
 
 Você está num restaurante e quer comer alguma coisa no almoço. Então, você diz: “Por favor, me veja uma feijoada E um suco de laranja”.
@@ -208,7 +205,7 @@ Utilize if/else para escrever um código que define três números em constantes
 * Se o horário estiver entre 4 e 11, insira "Humm, cheiro de café recém-passado” na variável “mensagem”. 
 - [ ] Agora imprima a variável mensagem fora das suas condições.
 
-**13. Prática**
+**13. Prática**<br> 
   Conteúdos abordados: Tabela verdade, Estrutura Condicional
 
   - [ ] Utilize if/else para escrever um código que converta uma nota dada em porcentagem (de 0 a 100) em conceitos de A a F.<br> 
@@ -233,7 +230,6 @@ Utilize if/else para escrever um código que define três números em constantes
 
 
 **14. Prática**<br>
-  
   Conteúdos abordados: Estrutura Condicional, operadores aritméticos
 
 
