@@ -7,7 +7,7 @@ Nem só de bloquinho vive a pessoa estudante, então simbora manter o conteúdo 
   </a>
 </p>
 
-<p align="center"> Para entender o nome das alegorias, ouçam a música do Alceu! </p>
+<p align="center"> Para entender o nome das alegorias, clique na imagem acima e ouçam a música do Alceu! </p>
 
 ## Descendo ladeira, fazendo poeira, atiçando o calor
 <p align="center">
@@ -15,132 +15,122 @@ Nem só de bloquinho vive a pessoa estudante, então simbora manter o conteúdo 
 </p>
 
 
-**1. Prática**<br>
-Conteúdos abordados: constantes e variáveis
+#### 1. Siga as instruções descritas abaixo:
+  <sub>Conteúdos abordados: constantes e variáveis</sub>
+      
+    a. Crie uma constante chamada **meuNome** e atribua a ela o seu nome.
+    b. Crie uma constante chamada **cidadeNatal** e atribua a ela a sua cidade de nascimento.
+    c. Crie uma constante chamada **anoDeNascimento** e atribua a ela o ano em que você nasceu.
+    d. Crie uma variável chamada **profissão** e atribua a ela a sua profissão.
+    e. Utilize o console.log para imprimir as constantes e variáveis que você criou.
+    f. Altere o valor da variável profissão para **desenvolvedora** e tente exibir no console novamente, observe o que acontece.
+    g. Atribua um novo valor à constante **cidadeNatal** e tente exibir no console novamente, observe o que acontece.
+      
+  > Você consegue entender e explicar, com suas palavras, o motivo do erro?
 
-- [ ] Crie uma constante chamada meuNome e atribua a ela o seu nome.
-- [ ] Crie uma constante chamada cidadeNatal e atribua a ela a sua cidade de nascimento.
-- [ ] Crie uma constante chamada anoDeNascimento e atribua a ela o ano em que você nasceu.
-- [ ] Crie uma variável let chamada profissão e atribua a ela a sua profissão.
+---
 
-Agora utilizaremos o console.log:
+#### 2. Abaixo iremos ver algumas declarações de constantes e variáveis, observe se as declarações estão de acordo com a sintaxe do Javascript. Caso não esteja, corrija, deixando-a válida.
+  <sub>Conteúdos abordados: variáveis, constantes e seus padrões de nomenclatura</sub>
 
-- [ ] utilize o console.log para imprimir as constantes e variáveis que você criou
-- [ ] altere o valor da variável profissão para desenvolvedora e faça um console.log e verifique o que acontece.
-- [ ] altere o valor da constante cidadeNatal e faça um console.log nela, verifique o que ocorre. Você consegue explicar, com suas palavras, o motivo do erro?
+    a. algum_nome: Mariana
+    b. var Nome = 32; 
+    c. const: idade 40;
+    d. let profissão = 'desenvolvedor';
 
+--- 
 
-**2. Prática**<br>
-Conteúdos abordados: variáveis, constantes e seus padrões de nomenclatura
+#### 3. Vamos fazer algumas operações simples. Queremos imprimir a área e o perímetro de um retângulo, sabemos que a base do retângulo é 5 e a altura é 8.
+<sub>Conteúdos abordados: operadores aritméticos</sub>
 
-Abaixo iremos ver algumas declarações de constantes e variáveis, observe se a escrita e seus tipos estão de acordo com a sintaxe da linguagem JavaScript. Caso não esteja, corrija, deixando- a válida.
+> Para te ajudar a pensar, **escreva em português um algoritmo** do que você deve fazer para calcular a área de um perimentro. Feito isso, **escreva um código** que calcule a área e exiba no console.
+    
+    Exemplo: Quero imprimir o nome de minha gata no console.
 
-a) algum_nome : Mariana
+    1. Meu algoritmo em portugues seria:
+      - Criar constante e atribuir a ela o nome de minha gata 
+      - Dar um console.log o valor da constante de eu acabei de criar
 
-b) var Nome = 32; 
+    2. Meu código seria:
+      const nomeDaMinhaGata = “Olga”; 
+      console.log(nomeDaMinhaGata);
 
+---
 
-c) const : idade 40;
+#### 4. Sem rodar os códigos, tente analisar e identificar quais trechos de código terá como saída no console 'Folia' com base nas variáveis declaradas.
+  <sub>Conteúdos abordados: operadores relacionais e estrutura condicional</sub>
 
+  ```javascript
+  const a = null;
+  const b = 20;
+  const c = true;
+  const d = '';
+  ```
 
-d) let profissão =  ‘ desenvolvedor’;
+  Trecho 1:
+  ```javascript
+  if (b === 20 && c != false && d == 0) {
+     console.log('Folia')
+  } else {
+     console.log('Descanso')
+  }
+  ```
 
+  Trecho 2:
+  ```javascript
+  if (a == 0) {
+     console.log('Folia')
+  } else {
+     console.log('Descanso')
+  }
+  ```
 
+  Trecho 3:
+  ```javascript
+  if (d) {
+     console.log('Folia')
+  } else {
+     console.log('Descanso')
+  }
+  ```
 
-**3. Prática**<br>
-Conteúdos abordados: operadores aritméticos
+  Trecho 4:
+  ```javascript
+  if (b == '20') {
+     console.log('Folia')
+  } else {
+     console.log('Descanso')
+  }
+  ```
 
-Vamos fazer algumas operações simples. Queremos imprimir a área e o perímetro de um retângulo, sabemos que a base do retângulo é 5 e a altura é 8.
-
-1. - [ ] Escreva em frases curtas o que será necessário fazer, para imprimir o valor da área e perímetro desse retângulo. 
-2. - [ ] Escreva o código para ser possível ver a impressão.
-
-**Exemplo**: <br>
-Quero imprimir o nome de minha gata no console.<br>
-
-**Frases:**<br> 
-* criar constante e atribuir a ela o nome de minha gata <br>
-* Imprimir o valor da constante, chamando a função console.log(); <br>
-
-
-**Código:**<br>
-const nomeDaMinhaGata = “Olga”; <br>
-console.log(nomeDaMinhaGata);
-
-**4. Prática**<br>
-Conteúdos abordados: operadores relacionais e estrutura condicional
-
-Observe as variáveis abaixo:
-
-a = null;<br>
-b = 20;<br>
-c = true;<br>
-d = '' '';<br>
-
-Analise as comparações abaixo e marque aquelas cuja saída no console será verdade.
-
-
-
-~~~
-if (b === 20 && c != false && d == 0) {
-   console.log('Verdade')
-} else {
-   console.log('Falso')
-}
-~~~
-
-
-~~~
-if (a == 0) {
-   console.log('Verdade')
-} else {
-   console.log('Falso')
-}
-~~~
-
-
-~~~
-if (d) {
-   console.log('Verdade')
-} else {
-   console.log('Falso')
-}
-~~~
-
-~~~
-if (b == '20') {
-   console.log('Verdade')
-} else {
-   console.log('Falso')
-}
-~~~
-
-
-**5. Prática**<br>
-Imprima a seguinte frase: Olá, me chamo Shuri, sou Super Heroína, tenho X anos e tenho algo para te dizer: O Pantera Negra vive, e quando ele lutar pelo destino de Wakanda, estarei ao lado dele.
-
-  * Abaixo já estão algumas constantes, crie outras caso seja necessário 
-  * calcule a idade com base no ano de nascimento, após
-  * imprima o que foi pedido.
-
-
-const nome = "Shuri";<br>
-const anoDeNascimento = 1988;<br>
-var profissao = "Super Heroína";<br>
-var frase = "O Pantera Negra vive, e quando ele lutar pelo destino de Wakanda, estarei ao lado dele.";<br>
-
-🚀 Ao infinito e além: no JavaScript podemos fazer o que foi pedido de formas diferentes, tente fazer, pelo menos, de duas formas diferente, pode pesquisar.
+---
+#### 5. Observe as variáveis criadas abaixo. Você tem o ano de nascimento da Shuri. Usando seus conhecimentos, com base no ano de nascimento, calcule a idade dela e exiba da seguinte forma no console. 
+  <sub>Conteúdos abordados: operadores aritméticos e string </sub>
   
-**6. Prática**<br>
-  Conteúdos abordados: Tabela verdade, Estrutura Condicional<br>
+  > Olá, me chamo Shuri, sou Super Heroína, tenho **X** anos e tenho algo para te dizer: O Pantera Negra vive, e quando ele lutar pelo destino de Wakanda, estarei ao lado dele.
+
+
+```javascript
+  const nome = "Shuri";
+  const anoDeNascimento = 1988;
+  const profissao = "Super Heroína";
+  const frase = "O Pantera Negra vive, e quando ele lutar pelo destino de Wakanda, estarei ao lado dele.";
+```
+
+⚠️`Fique a vontade para cirar novas variáveis, se achar necessário`
+
+---
+
+#### 6. Crie uma variável chamada **diaDaSemana** que receba a string "quarta-feira". Utilizando if/else, implemente condicionais para que:
+<sub>Conteúdos abordados: Tabela verdade, Estrutura Condicional</sub>
   
-- [ ] Crie uma variável chamada “diasDaSemana” que receba a string “quarta-feira”.
+a. Se nossa variável for: "segunda-feira", "terça-feira", "quarta-feira", "quinta-feira" ou "sexta-feira", o console.log imprima a seguinte mensagem:
+  > Oba, mais um dia de aprendizado em JavaScript :D 
+  
+b. Se for algum dia de fim de semana:  
+  > “FINALMENTE, descanso merecido”.
 
-* Utilizando if/else, implemente condicionais para que:<br>
-* Se nossa variável “diasDaSemana” for: “segunda-feira”, “terça-feira”, “quarta-feira”, “quinta-feira” ou “sexta-feira”, imprima:  “Oba, mais um dia de aprendizado em JavaScript :D”. <br>
-* Se for algum dia de fim de semana, imprima “FINALMENTE, descanso merecido”.
-
-
+---
 
 ## Do pique do frevo caí como um raio
 <p align="center">
@@ -148,79 +138,79 @@ var frase = "O Pantera Negra vive, e quando ele lutar pelo destino de Wakanda, e
 </p>
 
 
-**7. Prática**
-  
-Conteúdos abordados: operadores relacionais e estrutura condicional
+#### 7. Você está num restaurante e quer comer alguma coisa no almoço. Então, você diz:
+<sub>Conteúdos abordados: operadores relacionais e estrutura condicional</sub>
 
-Você está num restaurante e quer comer alguma coisa no almoço. Então, você diz: “Por favor, me veja uma feijoada E um suco de laranja”.
-Seria muito triste se você recebesse apenas a bebida ou só a comida, não é?
-Também não seria legal se recebêssemos a feijoada completa,  mas a nossa bebida fosse um caldo de cana. Porque nosso pedido era de que as duas condições fossem atendidas corretamente.
-Construa esse pedido em JavaScript, quando o pedido vier certo, imprima a mensagem: “Muito grata pelo almoço!” caso não seja o pedido, imprima: “Acho que houve um engano com meu pedido”
+ > Por favor, me veja uma feijoada **E** um suco de laranja”
+ 
+Seria muito triste se você recebesse apenas a bebida ou só a comida, não é? 
 
-**8. Prática**<br>
-  Conteúdos abordados: operadores relacionais e estrutura condicional
+Também não seria legal se recebêssemos a feijoada completa, mas a nossa bebida fosse um caldo de cana. **Porque nosso pedido era de que as duas condições fossem atendidas corretamente.**
 
+Crie duas variáveis em JS, uma deve conter o prato e a outra a bebida. Quando o pedido vier certo, seu programa deve imprima a mensagem: **"Muito grata pelo almoço!"** caso não seja o pedido, imprima: **"Acho que houve um engano com meu pedido"**.
 
-Crie uma constante que receba a nota de uma pessoa candidata em um desafio técnico, e atribua a ela um valor entre 1 e 100.  <br> 
-Implemente uma lógica que verifique se a pessoa candidata foi aprovada, reprovada ou se essa pessoa está na lista de espera. 
+---
+
+#### 8. Crie uma constante que receba a nota de uma pessoa candidata em um desafio técnico e atribua a ela um valor entre 1 e 100. Implemente uma lógica que verifique se a pessoa candidata foi aprovada, reprovada ou se essa pessoa está na lista de espera. 
+<sub>Conteúdos abordados: operadores relacionais e estrutura condicional</sub>
+
 Para isso, considere as seguintes informações: 
-* Se a nota for maior ou igual a 80, imprima “Parabéns, você faz parte do grupo das pessoas aprovadas!”.
-* Se a nota for menor que 80 e maior ou igual a 60, imprima “Você está na nossa lista de espera”.
-* Se a nota for menor que 60, imprima “Infelizmente, você reprovou.” .
-<br>
+* Se a nota for maior ou igual a 80, imprima "Parabéns, você faz parte do grupo das pessoas aprovadas!".
+* Se a nota for menor que 80 e maior ou igual a 60, imprima "Você está na nossa lista de espera".
+* Se a nota for menor que 60, imprima "Infelizmente, você reprovou." .
 
 Crie uma estrutura condicional utilizando o if, else if e else para criar o seu algoritmo, e os operadores lógicos que se aplicam a cada situação. Altere o valor da nota para verificar se as condições que você implementou funcionam.
 
+---
 
-**9. Prática**<br>
-  Conteúdos abordados: operadores relacionais e estrutura condicional
+#### 9. Defina 2 constantes que salvem valores numericos diferentes. Utilize if/else para escrever um código que retorne o maior dos dois números
+<sub>Conteúdos abordados: operadores relacionais e estrutura condicional</sub>
 
-Utilize  if/else para escrever um código que retorne o maior dos dois números.<br>
-  * Defina, no começo do seu código, duas constantes com os valores que serão comparados.
+---
 
+#### 10. Defina 3 constantes que salvem valores numericos diferentes. Utilize if/else para escrever um código que retorne o maior de três números.
+<sub>Conteúdos abordados: operadores aritméticos e estrutura condicional</sub>
 
-**10. Prática**<br>
-Utilize if/else para escrever um código que retorne o maior de três números.<br>
-  * Defina, no começo do seu código, três constantes com os valores que serão comparados.
+---
 
+#### 11. Utilize if/else para escrever um código que define três números em constantes e retorne true se pelo menos uma das três for par. Caso contrário, ele deve retornar false
+<sub>Conteúdos abordados: operadores relacionais e estrutura condicional e  Operadores aritméticos</sub>
 
+💡 > Dica: brinque com os valores, teste para números pares e ímpares.
 
-**11. Prática**<br>
-  Conteúdos abordados: operadores relacionais e estrutura condicional e  Operadores aritméticos
+---
 
-Utilize if/else para escrever um código que define três números em constantes e retorne true se pelo menos uma das três for par. Caso contrário, ele deve retornar false.<br>
-  
-💡 Dica: brinque com os valores, teste para números pares e ímpares. <br>
-  
-**12. Prática**<br>
-  Conteúdos abordados: operadores relacionais e estrutura condicional
+#### 12. Siga as instruções abaixo:
+<sub>Conteúdos abordados: operadores relacionais e estrutura condicional</sub>
 
-- [ ] Crie uma constante chamada “horarioAtual”, que receba um número entre 4 e 24 de sua escolha, para representar as horas do dia.
-- [ ] Crie uma variável chamada "mensagem" que, inicialmente, é uma string vazia. 
-- [ ] Implemente condicionais para que: 
-* Se o horário for maior ou igual a 22, insira “Não deveríamos comer nada, é hora de dormir” na variável “mensagem”.
-* Se o horário for maior ou igual a 18 e menor que 22, insira “Rango da noite, vamos jantar :D” na variável “mensagem”.
-* Se o horário for maior ou igual a 14 e menor que 18, insira “Vamos fazer um bolo pro café da tarde?” na variável “mensagem”. 
-* Se o horário for maior ou igual a 11 e menor que 14, insira “Hora do almoço!!!” na variável “mensagem”. 
-* Se o horário estiver entre 4 e 11, insira "Humm, cheiro de café recém-passado” na variável “mensagem”. 
-- [ ] Agora imprima a variável mensagem fora das suas condições.
+a. Crie uma constante chamada "horarioAtual", que receba um número entre 4 e 24 de sua escolha, para representar as horas do dia.
+b. Crie uma variável chamada "mensagem" que, inicialmente, é uma string vazia. 
+c. Implemente condicionais para que: 
+  * Se o horário for maior ou igual a 22, atribua "Não deveríamos comer nada, é hora de dormir" na variável "mensagem".
+  * Se o horário for maior ou igual a 18 e menor que 22, insira "Rango da noite, vamos jantar :D" na variável "mensagem".
+  * Se o horário for maior ou igual a 14 e menor que 18, insira "Vamos fazer um bolo pro café da tarde?" na variável "mensagem". 
+  * Se o horário for maior ou igual a 11 e menor que 14, insira "Hora do almoço!!!" na variável "mensagem". 
+  * Se o horário estiver entre 4 e 11, insira "Humm, cheiro de café recém-passado" na variável "mensagem". 
+d. Por fim, dê um console.log na variável "mensagem".
 
-**13. Prática**<br> 
-  Conteúdos abordados: Tabela verdade, Estrutura Condicional
+---
 
-  - [ ] Utilize if/else para escrever um código que converta uma nota dada em porcentagem (de 0 a 100) em conceitos de A a F.<br> 
+#### 13. Utilize if/else para escrever um código que converta uma nota dada em porcentagem (de 0 a 100) em conceitos de A a F. 
+<sub>Conteúdos abordados: Tabela verdade, Estrutura Condicional</sub>
 
-   * Siga essas regras:<br> 
-  Porcentagem >= 90 -> A<br>
-  Porcentagem >= 80 -> B<br>
-  Porcentagem >= 70 -> C<br> 
-  Porcentagem >= 60 -> D<br> 
-  Porcentagem >= 50 -> E<br> 
-  Porcentagem < 50 -> F<br> 
+  Siga essas regras:
+  ```
+  Porcentagem >= 90 -> A
+  Porcentagem >= 80 -> B
+  Porcentagem >= 70 -> C 
+  Porcentagem >= 60 -> D 
+  Porcentagem >= 50 -> E
+  Porcentagem < 50 -> F
+  ```
 
-* O código deve retornar uma mensagem de erro e encerrar se a nota passada for menor que 0 ou maior que 100.
+> O código deve retornar uma mensagem de erro se a nota passada for menor que 0 ou maior que 100.
 
-  
+---
 
 ## Me segura que senão eu caio
 <p align="center">
@@ -228,27 +218,17 @@ Utilize if/else para escrever um código que define três números em constantes
 </p>
 
 
+#### 14. Utilize if/else para escrever um código que se inicie com duas constantes declaradas: uma para o custo de um produto e outra para o seu valor de venda. A partir desses valores, calcule quanto de lucro (valor de venda, descontado o custo do produto) a empresa terá ao vender mil desses produtos.
+<sub>Conteúdos abordados: Estrutura Condicional, operadores aritméticos</sub>
 
-**14. Prática**<br>
-  Conteúdos abordados: Estrutura Condicional, operadores aritméticos
+> Seu código também deve mostrar um console com mensagem de erro caso algum dos seus valores de entrada seja menor que zero. 
+---
 
+#### 15. tilize if/else para escrever um código que define três constantes com os valores dos três ângulos internos de um triângulo. O programa deve retornar true se os ângulos representarem os ângulos de um triângulo e false, caso contrário.
+<sub>Conteúdos abordados: operadores aritméticos, estrutura Condicional</sub>
 
-  - [ ] Utilize if/else para escrever um código que se inicie com dois valores em duas constantes diferentes: o custo de um produto e seu valor de venda.<br>
- * A partir dos valores, calcule quanto de lucro (valor de venda, descontado o custo do produto) a empresa terá ao vender mil desses produtos.<br>
-  **Atente que, sobre o custo do produto, incide um imposto de 20%.** 
-
-  - [ ] Seu código também deve mostrar um console com mensagem de erro caso algum dos seus valores de entrada seja menor que zero. 
-
-valorCustoTotal = valorCusto + impostoSobreOCusto;<br>
-lucro =  valorVenda - valorCustoTotal (lucro de um produto);<br>
-
-
-**15. Prática**<br>
-  Conteúdos abordados: operadores aritméticos, estrutura Condicional<br>
-
-  - [ ] Utilize if/else para escrever um código que define três constantes com os valores dos três ângulos internos de um triângulo.<br>
-  * Retorne true se os ângulos representarem os ângulos de um triângulo e false, caso contrário.
-  * Se algum ângulo for inválido, você deve retornar uma mensagem de erro.<br>
-  **Para os ângulos serem de um triângulo válido, a soma dos três deve ser 180 graus. Um ângulo será considerado inválido se não tiver um valor positivo.**
+  > Se algum ângulo for inválido, você deve retornar uma mensagem de erro.
+  
+  > Para os ângulos serem de um triângulo válido, a soma dos três deve ser 180 graus. Um ângulo será considerado inválido se não tiver um valor positivo.
 
   
