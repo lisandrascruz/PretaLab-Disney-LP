@@ -18,13 +18,13 @@ Nem só de bloquinho vive a pessoa estudante, então simbora manter o conteúdo 
 #### 1. Siga as instruções descritas abaixo:
   <sub>Conteúdos abordados: constantes e variáveis</sub>
       
-    a. Crie uma constante chamada **meuNome** e atribua a ela o seu nome.
-    b. Crie uma constante chamada **cidadeNatal** e atribua a ela a sua cidade de nascimento.
-    c. Crie uma constante chamada **anoDeNascimento** e atribua a ela o ano em que você nasceu.
-    d. Crie uma variável chamada **profissão** e atribua a ela a sua profissão.
-    e. Utilize o console.log para imprimir as constantes e variáveis que você criou.
-    f. Altere o valor da variável profissão para **desenvolvedora** e tente exibir no console novamente, observe o que acontece.
-    g. Atribua um novo valor à constante **cidadeNatal** e tente exibir no console novamente, observe o que acontece.
+  * Crie uma constante chamada **meuNome** e atribua a ela o seu nome.
+  * Crie uma constante chamada **cidadeNatal** e atribua a ela a sua cidade de nascimento.
+  * Crie uma constante chamada **anoDeNascimento** e atribua a ela o ano em que você nasceu.
+  * Crie uma variável chamada **profissão** e atribua a ela a sua profissão.
+  * Utilize o console.log para imprimir as constantes e variáveis que você criou.
+  * Altere o valor da variável profissão para **desenvolvedora** e tente exibir no console novamente, observe o que acontece.
+  * Atribua um novo valor à constante **cidadeNatal** e tente exibir no console novamente, observe o que acontece.
       
   > Você consegue entender e explicar, com suas palavras, o motivo do erro?
 
