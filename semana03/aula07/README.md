@@ -8,13 +8,20 @@
 Na última aula vimos Estrutura condicional - if/else. Hoje continuaremos a nos aventurar nas diferentes estruturas de dados. Vamooos!!!
 
 ## 🔁 Estruturas de Repetição
+
+Estruturas de repetições repetem determinado bloco de comandos enquanto a condição atende ao requisito.</b>
+
 <p align="center">
   <img width="300" src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/i18n/pt/Fluxograma_simples.png">
 </p>
 
-Estruturas de repetições repetem determinado bloco de comandos enquanto a condição atende ao requisito.</b>
+
 
 ### for loop
+
+<p align="center">
+  <img width="300" src="https://media.tenor.com/Oe-fMIIqnT8AAAAC/loop-infinite.gif">
+</p>
 
 `for` é utilizado quando temos definida a quantidade de iterações de repetições necessárias. Por parâmetro, O for recebe três atributos: 
 
