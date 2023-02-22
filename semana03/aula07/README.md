@@ -26,11 +26,35 @@ Estruturas de repetições repetem determinado bloco de comandos enquanto a cond
 
  Por parâmetro, <b>for</b> recebe três atributos: 
 
- - o primeiro é uma variável, que inicia a nossa condição; 
- - o segundo, a verificação da condição; 
- - o último, o que ele deve fazer caso a condição seja verdadeira.
+```javascript
+for ([inicialização]; [condição]; [expressão final]) {
+   declaração;
+}
+```
+ - Inicialização: é uma expressão ou declaração de variáveis. É usada para iniciar o contador de variáveis.
+ - Condição: é a expressão que será avaliada antes da iteração do loop. Enquanto a condição for atendida, o seu código será executado.
+ - Expressão final: é validada ao final de cada iteração que acontece no laço FOR. Utilizada para incrementar ou atualizar a variável.
+ - Declaração: é o trecho de código que será executado caso a condição seja verdadeira.
+ 
+### Exemplo
+```javascript
+for (var i = 0; i < 9; i++) {
+   console.log(i);
+}
+```
+
+#### 🏋🏽 Bora praticar 
+  Abra o Visual Studio 
+
+  <details>
+    <summary> <b>Pratica 1:</b> inicie a variável <b>i</b> recebendo o valor 0. Enquanto for menor que 11, acrescente mais um número a variável, então imprima na tela (2*i). </summary>
 
 ```javascript
-for ([inicialização]; [condição]; [expressão final])
-   declaração
+const fruta1 = "banana";
+const fruta2 = "maçã";
+const fruta3 = "laranja";
+console.log(fruta1)
+console.log(fruta2)
+console.log(fruta3)
 ```
+  </details>
