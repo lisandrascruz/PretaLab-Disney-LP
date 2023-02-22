@@ -55,3 +55,14 @@ for (let i = 0; i < 11; i++) {
 ```
   </details>
   
+  
+  
+---
+
+<p align="center">
+  Isso é tudo pessoaaal!
+</p>
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/0ae622f2ae10d672df09248a9d00ec6ce16558dad1c305531cb4caf33137b784/68747470733a2f2f7468756d62732e6766796361742e636f6d2f416767726573736976654a65616c6f7573416d75726d696e6e6f772d73697a655f726573747269637465642e676966" width="500"/>
+</p>
