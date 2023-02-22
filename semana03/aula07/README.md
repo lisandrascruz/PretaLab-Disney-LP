@@ -46,7 +46,7 @@ for (let i = 0; i < 9; i++) {
   Abra o Visual Studio 
 
   <details>
-    <summary> <b>Pratica 1:</b> inicie a variável <b>i</b> recebendo o valor 0. Enquanto for menor que 11, acrescente mais um número a variável, então imprima na tela (2*i). </summary>
+    <summary> <b>Pratica:</b> inicie a variável <b>i</b> recebendo o valor 0. Enquanto for menor que 11, acrescente mais um número a variável, então imprima na tela (2*i). </summary>
 
 ```javascript
 for (let i = 0; i < 11; i++) {
