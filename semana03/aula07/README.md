@@ -16,7 +16,6 @@ Estruturas de repetições repetem determinado bloco de comandos enquanto a cond
 </p>
 
 
-
 ## for loop
 
 `for` é utilizado quando temos definida a quantidade de iterações de repetições necessárias.
@@ -38,7 +37,7 @@ for ([inicialização]; [condição]; [expressão final]) {
  
 ### Exemplo
 ```javascript
-for (var i = 0; i < 9; i++) {
+for (let i = 0; i < 9; i++) {
    console.log(i);
 }
 ```
@@ -50,11 +49,9 @@ for (var i = 0; i < 9; i++) {
     <summary> <b>Pratica 1:</b> inicie a variável <b>i</b> recebendo o valor 0. Enquanto for menor que 11, acrescente mais um número a variável, então imprima na tela (2*i). </summary>
 
 ```javascript
-const fruta1 = "banana";
-const fruta2 = "maçã";
-const fruta3 = "laranja";
-console.log(fruta1)
-console.log(fruta2)
-console.log(fruta3)
+for (let i = 0; i < 11; i++) {
+    console.log(2*i);
+}
 ```
   </details>
+  
