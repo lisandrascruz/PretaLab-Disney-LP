@@ -24,7 +24,7 @@ Estruturas de repetições repetem determinado bloco de comandos enquanto a cond
   <img width="300" src="https://media.tenor.com/Oe-fMIIqnT8AAAAC/loop-infinite.gif">
 </p>
 
- Por parâmetro, O for recebe três atributos: 
+ Por parâmetro, <b>for</b> recebe três atributos: 
 
  - o primeiro é uma variável, que inicia a nossa condição; 
  - o segundo, a verificação da condição; 
