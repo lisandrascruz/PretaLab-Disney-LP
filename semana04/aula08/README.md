@@ -1,7 +1,7 @@
 # Aula 08
 
  
-## Chegou a hora de colocar os dedinhos para codar, vamos ṕraticar o que aprendemos!<br>
+## Chegou a hora de colocar os dedinhos para codar, vamos praticar o que aprendemos!<br>
  <br>
  <p align="center">
   <img src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width=400
