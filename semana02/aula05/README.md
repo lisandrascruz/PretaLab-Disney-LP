@@ -107,7 +107,7 @@ if (a > b){
     c) Caso seja menor que 100, retorne "Esse número é menor que 100".
 
 
-
+<details>
 ## 🤔Tabela Verdade
 
 A tabela da verdade é muito utilizada na lógica de programação para desenvolvimento do raciocínio lógico. Seu objetivo é verificar a validade lógica de uma condição composta (argumento formado por duas ou mais condições simples). 
@@ -116,7 +116,7 @@ A tabela da verdade é muito utilizada na lógica de programação para desenvol
   <img width="600" src="https://files.passeidireto.com/85a780bb-7e36-412e-b793-b2c7c44ba4e5/bg1.png">
 </p>
 
-
+</details>
 ---
 
 <p align="center">
