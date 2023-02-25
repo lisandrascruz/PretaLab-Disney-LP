@@ -117,6 +117,7 @@ A tabela da verdade é muito utilizada na lógica de programação para desenvol
 </p>
 
 </details>
+
 ---
 
 <p align="center">
