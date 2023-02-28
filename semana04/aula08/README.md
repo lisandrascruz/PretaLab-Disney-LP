@@ -25,7 +25,9 @@
  
  #### 6. Mostre na tela os números primos que estão entre o número 0 e o 400.
  #### 7. Imprima os números de  0 até 40 na tela e em seguida, quantos números pares e quantos números ímpares foram impressos.
- 
+
+---
+   
 ## Yoda veio guiar nessas para você brilhar ainda mais!
    
 <p align="center">
