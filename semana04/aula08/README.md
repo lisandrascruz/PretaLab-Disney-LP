@@ -44,5 +44,21 @@
   
 Dentre todos os mistérios da Matemática, a sequência de Fibonacci é considerada uma das fascinantes descobertas, o que faz dessa ordem de números, uma descoberta especial, é a sua ligação com os fenômenos da natureza. 
 Bom, dito isso, escreva um código JavaScript para imprimir no console a sequência de fibonacci com base no número passado. Por exemplo, dado que o número é 9, o console exibirá: O Fibonacci de 9 é igual a 34.
-
+ 
+ <details> <summary> Mas o que é a sequência Fibonacci?</summary> 
+  
+ É uma sequência de números formada por uma regras bem simples:
+  - O primeiro número da série é 0.
+  - O segundo é 1.
+  - A partir daí, o próximo termo é sempre a soma dos dois anteriores. Logo:
+  - Terceiro termo = 0 + 1 = 1
+  - Quarto termo   = 1 + 1 = 2
+  - Quinto termo   = 1 + 2 = 3
+  - Sexto termo     = 2 + 3 = 5
+  - Sétimo termo   = 3 + 5 = 8
+  - Oitavo termo   = 5 + 8 = 13
+   ...
+ </details>
+ 
+ 
 #### 9. Um número perfeito é aquele que é igual à soma dos seus divisores positivos, exceto ele mesmo. Por exemplo, 6 é um número perfeito, pois 6 = 1 + 2 + 3. Escreva um código em JavaScript que receba um número "num" como entrada e imprima no console se "num" é perfeito ou não.
