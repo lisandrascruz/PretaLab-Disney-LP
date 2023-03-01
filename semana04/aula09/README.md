@@ -11,7 +11,7 @@ Estruturas de repetições repetem determinado bloco de comandos enquanto a cond
 <details>
 Diferença entre for, while e do while:
 
-https://cursos.alura.com.br/forum/topico-diferenca-entre-o-while-for-do-while-e-foreach-
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration
 </details>
 
 <p align="center">
