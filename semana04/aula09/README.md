@@ -18,9 +18,15 @@ https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteratio
   <img width="600" src= "https://wiki.sj.ifsc.edu.br/images/7/7c/Fig039_MCO018703.jpg"> 
  </p>
   
-### WHILE
+### while
 
 `while` cria um laço que executa um bloco de comando especifico enquanto a condição de teste for avaliada como verdadeira. A condição é avaliada antes da execução do bloco.
+
+```javascript
+while (condicao){
+  declaracao;
+}
+```
 
 ### Exemplo 1
 
@@ -34,10 +40,15 @@ while (i < 11){
  }
  ```
  
-### DO WHILE
+### do while
 
-`Do while` é parecido com while, mas nele, a condição só acontece depois que os comandos do bloco forem executados.
+`do while` é parecido com while, mas nele, a condição só acontece depois que os comandos do bloco forem executados.
 
+```javascript
+do{
+  declaracao
+}while (condicao);
+```
 
 ### Exemplo 2
 Vamos declarar uma variável e iniciá-la em 0. Enquanto for menor que 5 (condição passada no bloco `do while`), ela passará novamente pelo bloco do e acrescentará um número inicial de variável.
