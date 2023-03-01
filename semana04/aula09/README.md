@@ -8,6 +8,12 @@
 
 Estruturas de repetições repetem determinado bloco de comandos enquanto a condição atende ao requisito. As estruturas de repetição são representadas por `while`, `do while` e `for`.
 
+<details>
+Diferença entre for, while e do while:
+
+https://cursos.alura.com.br/forum/topico-diferenca-entre-o-while-for-do-while-e-foreach-
+</details>
+
 <p align="center">
   <img width="600" src= "https://wiki.sj.ifsc.edu.br/images/7/7c/Fig039_MCO018703.jpg"> 
  </p>
