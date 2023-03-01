@@ -44,13 +44,12 @@ do {
   Abra o Visual Studio 
 
   <details>
-    <summary> <b>Pratica:</b> inicie a variável <b>i</b> recebendo o valor 0. Enquanto for menor que 11, acrescente mais um número a variável, então imprima na tela (2*i). </summary>
+  <summary> <b>Pratica 1:</b> Leia 20 valores reais e calcule seu somatório utilizando a instrução while.</summary>
+  </details>
+  
+ <details>  
+ <summary><b>Pratica 2:</b> Leia 20 valores reais e calcule seu somatório utilizando a instrução do...while </summary>
 
-```javascript
-for (let i = 0; i < 11; i++) {
-    console.log(2*i);
-}
-```
   </details>
   
   
