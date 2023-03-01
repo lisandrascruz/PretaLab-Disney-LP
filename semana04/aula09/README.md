@@ -16,7 +16,10 @@ Estruturas de repetições repetem determinado bloco de comandos enquanto a cond
 
 `while` cria um laço que executa um bloco de comando especifico enquanto a condição de teste for avaliada como verdadeira. A condição é avaliada antes da execução do bloco.
 
-### Exemplo 2
+### Exemplo 1
+
+Vamos declarar uma variável e iniciá-la em 0 para, em seguida, usar o `while` e passar a instrução que, enquanto nossa variável for menor que 11, a multiplicaremos por 5 (resultando na tabuada do 5).
+
 ```javascript
 let i = 0;
 while (i < 11){
@@ -31,6 +34,8 @@ while (i < 11){
 
 
 ### Exemplo 2
+Vamos declarar uma variável e iniciá-la em 0. Enquanto for menor que 5 (condição passada no bloco `do while`), ela passará novamente pelo bloco do e acrescentará um número inicial de variável.
+
 ```javascript
 let i = 0;
 
