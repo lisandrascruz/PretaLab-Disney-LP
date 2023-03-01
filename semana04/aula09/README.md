@@ -65,15 +65,6 @@ do {
 #### 🏋🏽 Bora praticar 
   Abra o Visual Studio 
 
-  <details>
-  <summary> <b>Pratica 1:</b> Leia 20 valores reais e calcule seu somatório utilizando a instrução while.</summary>
-  </details>
-  
- <details>  
- <summary><b>Pratica 2:</b> Leia 20 valores reais e calcule seu somatório utilizando a instrução do...while </summary>
-
-  </details>
-
  <details>  
  <summary><b>Pratica 3:</b> Faça um algoritmo que apresente o quadrado de cada um dos números pares entre 1 a 100.</summary>
  </details>
