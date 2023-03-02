@@ -32,5 +32,5 @@
 #### 4. Encontre os múltiplos de 3 ou 5.
 Se listarmos todos os números naturais abaixo de 10 que são múltiplos de 3 ou 5, obtemos 3, 5, 6 e 9. A soma desses múltiplos é 23. Faça um programa JavaScript que encontre a soma de todos os múltiplos de 3 ou 5 abaixo de 1000.
 
-#### 5. Qual é o 1001o número primo?
+#### 5. Qual é o 1001º número primo?
 Listando os seis primeiros números primos: 2, 3, 5, 7, 11 e 13, podemos ver que o sexto primo é 13. Qual é o 1001º número primo? Faça um programa JavaScript que exiba esse número para o usuário.
