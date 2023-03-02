@@ -40,7 +40,7 @@ for(i = 0; i <= 10; i++){
 //Obs: Números primos são aqueles divisíveis apenas por 1, por eles mesmos, e maiores que 1)
 
 for(let i = 2; i <= 400; i++){
-    let ePrimo = true;
+    
     for(let j = 2; j < i; j++){
         if(i % j === 0) {
             ePrimo = false;
@@ -50,6 +50,8 @@ for(let i = 2; i <= 400; i++){
         console.log(i);
     }
 }
+
+
 
 
 //Exercicio 7:
