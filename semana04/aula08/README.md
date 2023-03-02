@@ -23,8 +23,9 @@
 </p>
 <br>
  
- #### 6. Mostre na tela os números primos que estão entre o número 0 e o 400.
- #### 7. Imprima os números de  0 até 40 na tela e em seguida, quantos números pares e quantos números ímpares foram impressos.
+ #### 6. Imprima os números de  0 até 40 na tela e em seguida, quantos números pares e quantos números ímpares foram impressos.
+ #### 7. Dado um numero qualquer, crie um código em Javascript que diga se ele é primo ou não.
+ #### 8. Mostre na tela os números primos que estão entre o número 0 e o 400.
 
 ---
    
@@ -35,7 +36,7 @@
 </p>
 <br>
  
-#### 8. Você já ouviu falar na Sequência de Fibonacci? É uma sequência de números, onde o número 1 é o primeiro e segundo termo da ordem e os demais são originados pela soma de seus antecessores. Como demonstrado abaixo: 
+#### 9. Você já ouviu falar na Sequência de Fibonacci? É uma sequência de números, onde o número 1 é o primeiro e segundo termo da ordem e os demais são originados pela soma de seus antecessores. Como demonstrado abaixo: 
 
 <p align="center">
   <img src="https://mystudybay.com.br/storage/upload/mystudybay_foto_sequencia_de_fibonacci_07.jpg" width=400
@@ -61,4 +62,4 @@ Bom, dito isso, escreva um código JavaScript para imprimir no console a sequên
  </details>
  
  
-#### 9. Um número perfeito é aquele que é igual à soma dos seus divisores positivos, exceto ele mesmo. Por exemplo, 6 é um número perfeito, pois 6 = 1 + 2 + 3. Escreva um código em JavaScript que receba um número "num" como entrada e imprima no console se "num" é perfeito ou não.
+#### 10. Um número perfeito é aquele que é igual à soma dos seus divisores positivos, exceto ele mesmo. Por exemplo, 6 é um número perfeito, pois 6 = 1 + 2 + 3. Escreva um código em JavaScript que receba um número "num" como entrada e imprima no console se "num" é perfeito ou não.
