@@ -59,7 +59,7 @@ let i = 0;
 do {
     console.log("O contador vale:" + i);
     i++;
-} while (contador < 5)
+} while (i < 5)
 ```
 
 #### 🏋🏽 Bora praticar 
