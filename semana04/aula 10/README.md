@@ -1,10 +1,10 @@
 # Aula 10
 
  
-## Prontes para praticar um pouco mais?<br>
+## Todos prontos para praticar um pouco mais?<br>
  <br>
  <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/1*jy0pAQ4lakrYO6tlus7wRQ.gif" width=400
+  <img src="https://gifdb.com/images/high/1950s-popeye-the-sailor-man-0n8n1hsdzc0i9dnm.gif" width=400
          
  </p>
 <br>
