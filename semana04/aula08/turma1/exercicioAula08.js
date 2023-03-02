@@ -12,6 +12,14 @@ for (let i = 1; i < 200; i++) {
   }
 }
 
+//OU: 
+
+for(i = 1; i <= 100; i++){
+
+   console.log(2*i)
+
+}
+
 //Exercicio 3:
 
 for (let i = 1; i <= 10; i++) {
