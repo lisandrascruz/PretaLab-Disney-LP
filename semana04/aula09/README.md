@@ -8,13 +8,25 @@
 
 Estruturas de repetições repetem determinado bloco de comandos enquanto a condição atende ao requisito. As estruturas de repetição são representadas por `while`, `do while` e `for`.
 
+<details>
+Diferença entre for, while e do while:
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration
+</details>
+
 <p align="center">
   <img width="600" src= "https://wiki.sj.ifsc.edu.br/images/7/7c/Fig039_MCO018703.jpg"> 
  </p>
   
-### WHILE
+### while
 
 `while` cria um laço que executa um bloco de comando especifico enquanto a condição de teste for avaliada como verdadeira. A condição é avaliada antes da execução do bloco.
+
+```javascript
+while (condicao){
+  declaracao;
+}
+```
 
 ### Exemplo 1
 
@@ -28,10 +40,15 @@ while (i < 11){
  }
  ```
  
-### DO WHILE
+### do while
 
-`Do while` é parecido com while, mas nele, a condição só acontece depois que os comandos do bloco forem executados.
+`do while` é parecido com while, mas nele, a condição só acontece depois que os comandos do bloco forem executados.
 
+```javascript
+do{
+  declaracao
+}while (condicao);
+```
 
 ### Exemplo 2
 Vamos declarar uma variável e iniciá-la em 0. Enquanto for menor que 5 (condição passada no bloco `do while`), ela passará novamente pelo bloco do e acrescentará um número inicial de variável.
@@ -42,20 +59,11 @@ let i = 0;
 do {
     console.log("O contador vale:" + i);
     i++;
-} while (contador < 5)
+} while (i < 5)
 ```
 
 #### 🏋🏽 Bora praticar 
   Abra o Visual Studio 
-
-  <details>
-  <summary> <b>Pratica 1:</b> Leia 20 valores reais e calcule seu somatório utilizando a instrução while.</summary>
-  </details>
-  
- <details>  
- <summary><b>Pratica 2:</b> Leia 20 valores reais e calcule seu somatório utilizando a instrução do...while </summary>
-
-  </details>
 
  <details>  
  <summary><b>Pratica 3:</b> Faça um algoritmo que apresente o quadrado de cada um dos números pares entre 1 a 100.</summary>
