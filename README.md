@@ -23,11 +23,9 @@ Esse repositório é voltado ao módulo de Lógica de Programação, terá dura�
 
 #### [20/fev - 25/fev] Semana 3
 - Estrutura de Repetição: *for*
-- Revisão e prática
 
 #### [27/fev - 04/mar] Semana 4
 - Estrutura de Repetição: *for e/ou while* 
-- Função
 - Revisão e prática
 
 #### [06/mar - 11/mar] Semana 5
