@@ -50,22 +50,17 @@ for (let i = 2; i < numero; i++) {
 console.log(`${numero} é um numero primo primo? ${resposta}`);
 
 //Exercicio 7:
-let j = 0;
 let P = 0;
-let I = 0;
+let I = 0
 
-for (let i = 0; i <= 40; i++) {
-  console.log(i);
-
-  if (j % 2 === 0) {
-    j = P;
-    P = P + 1;
-  } else {
-    j = I;
-    I = I + 1;
+for (let j = 0; j <= 40; j++){
+    if (j % 2 === 0) {
+      P++
+    } else {
+      I++
+    }
   }
-}
-console.log(`Entre 0 e 40, há ${P} números pares e ${I} números ímpares.`);
+  console.log(`Entre 0 e 40, há ${P} números pares e ${I} números ímpares.`);
 
 //Exercicio 8:
 //Obs: Números primos são aqueles divisíveis apenas por 1, por eles mesmos, e maiores que 1)
