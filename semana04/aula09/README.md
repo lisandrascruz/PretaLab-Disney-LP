@@ -75,7 +75,7 @@ let i = 1;
 while(i < 100){
         if(i%2 == 0){
         numPar = i
-    console.log(numPar)
+    console.log(numPar**2)
     }
     i++
 }
