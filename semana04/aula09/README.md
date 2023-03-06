@@ -66,8 +66,21 @@ do {
   Abra o Visual Studio 
 
  <details>  
- <summary><b>Pratica 3:</b> Faça um algoritmo que apresente o quadrado de cada um dos números pares entre 1 a 100.</summary>
- </details>
+ <summary><b>Pratica:</b> Faça um algoritmo que apresente o quadrado de cada um dos números pares entre 1 a 100.</summary>
+ 
+ ```javascript
+ let numPar = 0;
+let i = 1;
+
+while(i < 100){
+        if(i%2 == 0){
+        numPar = i
+    console.log(numPar)
+    }
+    i++
+}
+```
+</details>
  
  
  
