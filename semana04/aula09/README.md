@@ -34,10 +34,11 @@ Vamos declarar uma variável e iniciá-la em 0 para, em seguida, usar o `while` 
 
 ```javascript
 let i = 0;
-while (i < 11){
-    console.log("5 x " + i + " = " + 5*i)
+
+while(i<11){
+    console.log(`${i} x 5 = ${i*5}`)
     i++
- }
+}
  ```
  
 ### do while
