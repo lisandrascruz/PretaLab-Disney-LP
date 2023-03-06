@@ -66,7 +66,7 @@ do {
   Abra o Visual Studio 
 
  <details>  
- <summary><b>Pratica:</b> Faça um algoritmo que apresente o quadrado de cada um dos números pares entre 1 a 100.</summary>
+ <summary><b>Pratica:</b> Faça um algoritmo que apresente o quadrado de cada um dos números pares entre 1 a 100 (DICA: O operador de exponenciação (**) retorna o resultado de elevar o primeiro operando à potência do segundo operando).</summary>
  
  ```javascript
  let numPar = 0;
